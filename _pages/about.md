@@ -17,6 +17,11 @@ Research Interests
 * **Hallucination in Vision-Language Models (VLM)**
 * **LLM Truthfulness and Interpretability**
 
+Research Areas and Skills
+======
+* **Natural Language Processing** — my primary research focus, combined with machine learning in my research approach
+* **Machine Learning** — combined with natural language processing
+
 Education
 ======
 * **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 - Present
